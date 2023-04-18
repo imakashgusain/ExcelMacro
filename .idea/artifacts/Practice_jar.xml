@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Practice:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Practice_jar</output-path>
+    <root id="archive" name="Practice.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Practice" />
+      <element id="library" level="project" name="commons-compress-1.21" />
+    </root>
+  </artifact>
+</component>
